@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://baltimore.lemurianstudios.com/sitemap.xml
